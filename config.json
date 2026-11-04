@@ -28,7 +28,7 @@
   },
   "antiInbox": true,
   "nickNameBot": "REM X ST | BOT..🕊️",
-  "prefix": "!",
+  "prefix": ",",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
@@ -40,7 +40,7 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["61595801918962"],
+  "adminBot": ["61592422092604"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
