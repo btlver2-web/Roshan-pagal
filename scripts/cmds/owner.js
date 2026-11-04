@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "owner",
     version: "1.4.0",
-    author: "MOHAMMAD ARIYAN",
+    author: "su baru",
     role: 0,
     shortDescription: "Premium owner information",
     category: "Information",
@@ -19,8 +19,8 @@ module.exports = {
     const ownerText =
 `╭━━━〔 👑 OWNER PROFILE 👑 〕━━━╮
 ┃
-┃ 👤 Name       : MOHAMMAD ARIYAN
-┃ 🧑‍💻 Developer : ARIYANX404
+┃ 👤 Name       : su baru
+┃ 🧑‍💻 Developer : Aryian bhauu
 ┃ 🤖 Bot        : REM...X...ST
 ┃ ⚙️ Version    : 3.0.00
 ┃
@@ -30,7 +30,7 @@ module.exports = {
 ┃ m.me/61595801918962
 ┃
 ┃ 📘 Facebook:
-┃ facebook.com/profile.php?id=61595801918962
+┃ https://www.facebook.com/profile.php?id=61592422092604
 ┃
 ╰━━━━━━━━━━━━━━━━━━━━╯
      ❤️ Thanks for using REM...X...ST`;
