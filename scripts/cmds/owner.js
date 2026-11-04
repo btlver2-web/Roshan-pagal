@@ -19,7 +19,7 @@ module.exports = {
     const ownerText =
 `╭━━━〔 👑 OWNER PROFILE 👑 〕━━━╮
 ┃
-┃ 👤 Name       : su baru
+┃ 👤 Name       : Su baru
 ┃ 🧑‍💻 Developer : Aryian bhauu
 ┃ 🤖 Bot        : REM...X...ST
 ┃ ⚙️ Version    : 3.0.00
