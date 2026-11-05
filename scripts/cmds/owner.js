@@ -20,15 +20,15 @@ module.exports = {
 `╭━━━〔 👑 OWNER PROFILE 👑 〕━━━╮
 ┃
 ┃ 👤 Name       : Su baru
-┃ 🧑‍💻 Developer : Aryian bhauu
+┃      Age:           22+
+┃ 🧑‍💻 Developer : Aryian 😎
 ┃ 🤖 Bot        : REM...X...ST
 ┃ ⚙️ Version    : 3.0.00
 ┃
 ┣━━━〔 🔗 CONTACT INFO 〕━━━
 ┃
 ┃ 💬 Messenger:
-┃ m.me/61595801918962
-┃
+┃ m.me/61592422092604
 ┃ 📘 Facebook:
 ┃ https://www.facebook.com/profile.php?id=61592422092604
 ┃
